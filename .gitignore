@@ -1,0 +1,10 @@
+# Cache dan bytecode Python
+__pycache__/
+*.pyc
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# Berkas sistem operasi
+.DS_Store
+Thumbs.db

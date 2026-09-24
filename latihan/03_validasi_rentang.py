@@ -1,0 +1,13 @@
+# Latihan 3: Validasi Rentang - Jenis Sudut
+# Input : besar sudut dalam derajat
+# Validasi: sudut harus lebih dari 0 dan kurang dari 180
+# Output: lancip (<90), siku-siku (=90), tumpul (>90), atau pesan penolakan
+sudut = float(input("Besar sudut dalam derajat: "))
+if sudut <= 0 or sudut >= 180:
+    print("Masukan ditolak: sudut harus lebih dari 0 dan kurang dari 180.")
+elif sudut < 90:
+    print("Sudut lancip")
+elif sudut == 90:
+    print("Sudut siku-siku")
+else:
+    print("Sudut tumpul")
