@@ -1,8 +1,8 @@
 # Pertemuan 04 - Seleksi Multi-Kondisi dan Validasi Input
 
-Nama: ...  
-NIM: ...  
-Kelas: ...
+Nama: Rasyad Fazri Mulyono  
+NIM: 2225250023  
+Kelas: 3A
 
 ## Tujuan
 
